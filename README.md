@@ -1,1 +1,1 @@
-# FInTech
+# FinTech
