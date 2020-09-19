@@ -1,5 +1,4 @@
 # FinTech
-# FinTech
 Sampel
 My name is Fareed Freihat
 I'm From Jordan 
